@@ -48,6 +48,7 @@ AZURE_VOICE_JOBS: tuple[AzureVoiceJob, ...] = (
     AzureVoiceJob("./voices/es-CL.csv", "es-CL-CatalinaNeural", "es_cl-catalina"),
     AzureVoiceJob("./voices/es-ES.csv", "es-ES-ElviraNeural", "es"),
     AzureVoiceJob("./voices/fr-FR.csv", "fr-FR-DeniseNeural", "fr"),
+    AzureVoiceJob("./voices/he-IL.csv", "he-IL-HilaNeural", "he"),
     AzureVoiceJob("./voices/it-IT.csv", "it-IT-ElsaNeural", "it"),
     AzureVoiceJob("./voices/it-IT_scripts.csv", "it-IT-ElsaNeural", "it/SCRIPTS"),
     AzureVoiceJob("./voices/ja-JP.csv", "ja-JP-NanamiNeural", "jp"),

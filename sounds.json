@@ -84,6 +84,12 @@
     "directory": "fr"
   },
   {
+    "language": "he-IL",
+    "name": "Hebrew Female",
+    "description": "Hebrew Female Voice (he-IL-Hila)",
+    "directory": "he"
+  },
+  {
     "language": "it-IT",
     "name": "Italian Female",
     "description": "Italian Female Voice (it-IT-Elsa)",
